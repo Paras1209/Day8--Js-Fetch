@@ -25,7 +25,6 @@
             overflow-x: hidden;
         }
 
-        /* Realistic texture overlay */
         body::before {
             content: '';
             position: fixed;
@@ -58,7 +57,6 @@
             overflow: hidden;
         }
 
-        /* Skeumorphic inner shadow */
         .container::before {
             content: '';
             position: absolute;
@@ -279,7 +277,6 @@
             overflow: hidden;
         }
 
-        /* Skeumorphic inner elements */
         .user-card::before {
             content: '';
             position: absolute;
@@ -395,7 +392,6 @@
             border: 1px solid rgba(255, 0, 128, 0.2);
         }
 
-        /* Responsive design */
         @media (max-width: 768px) {
             .users-grid {
                 grid-template-columns: 1fr;
@@ -437,7 +433,6 @@
             </div>
             
             <div class="users-grid" id="usersGrid">
-                <!-- User cards will be inserted here -->
             </div>
         </div>
     </div>

@@ -111,7 +111,3 @@ After working with this project, you will have gained experience in:
 - Add form validation for user input
 - Explore other REST API methods (POST, PUT, DELETE)
 - Practice with different APIs to expand your skills
-
----
-
-*This project is designed for learning JavaScript fundamentals and modern web development practices. Perfect for developers looking to understand API integration and asynchronous programming.*
